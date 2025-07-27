@@ -57,6 +57,7 @@ const io = new Server(server, {
             'http://127.0.0.1:5500',
             'https://yousuf-server.web.app',
             'https://frabjous-heliotrope-8fef2a.netlify.app',
+            'https://myloctionmapz.online',
         ],
         methods: ['GET', 'POST'],
 
